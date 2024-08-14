@@ -1,5 +1,5 @@
-# simple mini projects using Graphics.h
-This Repository includes all the fun stuff that we can do with graphics.h( standard c library )
+# simple animation projects using Graphics.h
+ThisaRepository includes all the fun stuff that we can do with graphics.h( standard c library )
 
 Submitted by: **Srikanth Reddy Mallepally**
 
@@ -17,19 +17,22 @@ Time spent: **150** hours spent in total
 ## list of Animation Programs with gif video walkthrough.
 1. Exit Animation: the Exit animation is a show end cutrains animation.
    <br>Video Walkthrough
-   <img src='./.gif' title='Video Walkthrough' width='' alt='exit animation' />
+   <img style="border: 1px solid white;" src='./exit-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='exit animation' />
+   <br>
 2. Flag Animation: the flag animation shows the how the indian flag is hoisted for republic day celebrations.
    <br>Video Walkthrough
-   <img src='./.gif' title='Video Walkthrough' width='' alt='flag animation' />
+   <img src='./flag-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='flag animation' />
+   <br>
 3. StopWatch: Its a counter for 1 to 10 numbers.
    <br>Video Walkthrough
-   <img src='./.gif' title='Video Walkthrough' width='' alt='stopwatch animation' />
+   <img src='./stop-watch.gif' title='Video Walkthrough' width='400px' height='300px' alt='stopwatch animation' />
+   <br>
 4. logo Animation: all the three Operating systems logos such as the Andriod, Ubuntu and Windows is showed in this animation
    <br>Video Walkthrough
-   <img src='./.gif' title='Video Walkthrough' width='' alt='logo animation' />
+   <img src='./logo-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='logo animation' />
 5. name animation: my name animation using arc function.
    <br>Video Walkthrough
-   <img src='./.gif' title='Video Walkthrough' width='' alt='name animation' />
+   <img src='./name-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='name animation' />
 
 
    
