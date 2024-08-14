@@ -15,25 +15,13 @@ Time spent: **150** hours spent in total
 ## Features
 
 ## list of Animation Programs with gif video walkthrough.
-1. Exit Animation: the Exit animation is a show end cutrains animation.
-   <br>Video Walkthrough
-   <img style="border: 1px solid white;" src='./exit-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='exit animation' />
-   <br>
-2. Flag Animation: the flag animation shows the how the indian flag is hoisted for republic day celebrations.
-   <br>Video Walkthrough
-   <img src='./flag-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='flag animation' />
-   <br>
-3. StopWatch: Its a counter for 1 to 10 numbers.
-   <br>Video Walkthrough
-   <img src='./stop-watch.gif' title='Video Walkthrough' width='400px' height='300px' alt='stopwatch animation' />
-   <br>
-4. logo Animation: all the three Operating systems logos such as the Andriod, Ubuntu and Windows is showed in this animation
-   <br>Video Walkthrough
-   <img src='./logo-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='logo animation' />
-5. name animation: my name animation using arc function.
-   <br>Video Walkthrough
-   <img src='./name-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='name animation' />
-
+| Animation     |    Feature      |   Video Walkthrough  |
+|:-------------:|:---------------:|:--------------------:|
+| Exit Animation | the Exit animation is a show end cutrains animation. | <img style="border: 1px solid white;" src='./exit-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='exit animation' /> |
+|Flag Animation | The flag animation shows the how the indian flag is hoisted for republic day celebrations.| <img src='./flag-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='flag animation' /> |
+| StopWatch | Its a counter for 1 to 10 numbers.| <img src='./stop-watch.gif' title='Video Walkthrough' width='400px' height='300px' alt='stopwatch animation' /> |
+| logo Animation | All the three Operating systems logos such as the Andriod, Ubuntu and Windows is showed in this animation | <img src='./logo-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='logo animation' /> |
+| Name animation|My Name animation using arc function. | <img src='./name-animation.gif' title='Video Walkthrough' width='400px' height='300px' alt='name animation' /> |
 
    
 ## License
